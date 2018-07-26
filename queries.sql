@@ -1,0 +1,1 @@
+INSERT INTO `nida` (`id`, `img`, `names`, `gender`, `dob`, `nid`, `handleId`, `createdBy`, `createdDate`, `updatedBy`, `updatedDate`, `archived`, `archivedBy`, `archivedDate`) VALUES (NULL, NULL, 'MUHIRWA Clement', 'MALE', '1992-01-01', '1199280018360077', NULL, '1', CURRENT_TIMESTAMP, NULL, NULL, 'NO', NULL, NULL);
